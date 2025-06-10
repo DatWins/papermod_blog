@@ -1,6 +1,6 @@
 baseURL: "https://comfy-cheesecake-ff2694.netlify.app/"
 languageCode: "en-us"
-title: chrispanag
+title: The Watcher
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -29,7 +29,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Learning Chess from Watching Youtube"
-  author: Christos Panagiotakopoulos
+  author: The Watcher
   # author: ["Me", "You"] # multiple authors
   ShowPostNavLinks: true
   defaultTheme: auto
