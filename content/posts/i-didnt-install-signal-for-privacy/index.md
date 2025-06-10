@@ -5,6 +5,7 @@ date: "2020-01-29"
 description: "Why your right to choice is more important than your right to privacy."
 tags: ["privacy", "signal", "chat"]
 categories: ["opinions"]
+draft: true
 
 cover:
     image: "elon-musk-use-signal.jpg"
