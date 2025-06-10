@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://comfy-cheesecake-ff2694.netlify.app/"
 languageCode: "en-us"
 title: chrispanag
 theme: PaperMod
@@ -28,7 +28,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Software Engineer, Web3 Developer, FOSS Enthusiast"
+  description: "Learning Chess from Watching Youtube"
   author: Christos Panagiotakopoulos
   # author: ["Me", "You"] # multiple authors
   ShowPostNavLinks: true
@@ -44,10 +44,10 @@ params:
 
   profileMode:
     enabled: true
-    title: "Christos Panagiotakopoulos" # optional default will be site title
+    title: "Monkey See, Monkey Do" # optional default will be site title
     subtitle: "Software Engineer"
     imageUrl: "profile.webp" # optional
-    imageTitle: "Christos Panagiotakopoulos' profile picture" # optional
+    imageTitle: "The Watcher" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
 
